@@ -25,7 +25,4 @@ This API manages customers, mechanics, and service tickets — including assigni
 - Assign a mechanic to a ticket  
 - Remove a mechanic from a ticket  
 
----
-
-## 🧱 Project Structure
 
